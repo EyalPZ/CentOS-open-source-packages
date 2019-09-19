@@ -1,0 +1,6 @@
+Installation instructions for GIT 2.22.0 on CentOS 7
+----------------------------------------------------
+1. Download git-2.22.0-CentOS7.tar.gz
+2. Extract the tarball at root '/'
+3. Check that you have "running" privilege on git folder
+4. Add /git/bin to $PATH env var (export or ~/.bashrc)

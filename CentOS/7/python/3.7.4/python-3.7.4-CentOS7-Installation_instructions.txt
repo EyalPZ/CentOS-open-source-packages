@@ -1,0 +1,7 @@
+Installation instructions for python 3.7.4 on CentOS 7
+------------------------------------------------------
+1. Download python-3.7.4-CentOS7.tar.gz
+2. Extract the tarball at root '/python'
+3. Check that you have "running" privilege on git folder
+4. Add  /python/bin/python3.7/ to $PATH env var (export or ~/.bashrc)
+5. Change alias of python to the new executable alias python='/python/bin/python3.7' (add to ~/.bashrc)
